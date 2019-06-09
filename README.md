@@ -1,2 +1,1 @@
-# tesorflow
-tensorflow
+vgg16迁移模型对人脸进行分类。训练数据偏少
